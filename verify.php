@@ -5,8 +5,8 @@ $data = $_GET['data'];
 // get signature param
 $signature = $_GET['signature'];
 
-// get key
-$key_64 = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSxLq1gv6Gry7l6awJzfTMk3Y/iHSrwhD67JsW82a0tQ0touBXJInBULrQFpRJwmjeHVXK0G0z1pZW0pfFP5ZKgt0Ti8LMDC/xIqSBPAghpnqlH+bFUFD2pDsosyCt13vIRFjHqD1C2kWCh9g6yLoQA2j8XBWD2YCsY6wLlBVN4ZxTK8jBOLRFw84fn5kqxjcGBg3upd1GonHtBc2NoADO6dwdh2KeBhDu5pEN6n6rsZDcVa5A3kADsrBfOiEqO1xJwwwi7PU0fMzfsNf1N2+7nGqvDzlpvMUHeRmqapldrkiQ0cCvXadvXMsCbLPCa4+G/1qrC1AuXHzEDszuO0NQIDAQAB";
+// get key *for security it's not a true key 
+$key_64 = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSxLq1gv6Gry7l6awJzfTMk3Y/iHSrwhD67JsW82a0tQ0touBXJInBULrQFpRJwmjeHVXK0G0z1pZW0pfFP5ZKgt0Ti8LMDC/xIqSBPAghpnqlH+bFUFD2pDsosyCt13vIRFjHqD1C2kWCh9g6uKpQA2j8XBWD2YCsY6wLlBVN4ZxTK8jBOLRFw84fn5kqxjcGBg3upd1GonHtBc2NoADO6dwdh2KeBhDu5pEN6n6rsZDcVa5A3kADsrBfOiEqO1xJwwwi7PU0fMzfsNf1N2+7nGqvDzlpvMUHeRmqapldrkiQ0cCvXadvXMsCbLPCa4+G/1qrC1AuXHzEDszuO0NQIDAQAB";
 
 
 
