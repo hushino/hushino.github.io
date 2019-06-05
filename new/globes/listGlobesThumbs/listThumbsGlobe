@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Classic free globe",
+    "pointsCost": 0,
+    "pointsReward": 0,
+    "isFree": true,
+    "sku": ""
+  },
+  {
+    "id": 1,
+    "name": "Premium globe Crazy",
+    "pointsCost": 3000,
+    "pointsReward": 2000,
+    "isFree": false,
+    "sku": "GlobePremium1"
+  },
+  {
+    "id": 2,
+    "name": "Premium globe 1",
+    "pointsCost": 3000,
+    "pointsReward": 2000,
+    "isFree": false,
+    "sku": "GlobePremium2"
+  },
+  {
+    "id": 3,
+    "name": "Premium globe 2"
+    "pointsCost": 3000,
+    "pointsReward": 2000,
+    "isFree": false,
+    "sku": "GlobePremium3"
+  }
+]
