@@ -1,4 +1,5 @@
- [
+{
+  "shimejis": [
     {
       "id": 0,
       "name": "IA"
@@ -348,3 +349,4 @@
       "name": "Varus"
     }
   ]
+}
