@@ -1,0 +1,28 @@
+{
+  "shimejis": [
+    {
+      "id": 0,
+      "name": "Alice"
+    },
+    {
+      "id": 1,
+      "name": "Jotarin"
+    },
+    {
+      "id": 2,
+      "name": "Darling"
+    },
+    {
+      "id": 3,
+      "name": "Len"
+    },
+    {
+      "id": 4,
+      "name": "Taku"
+    },
+    {
+      "id": 5,
+      "name": "Padoru"
+    }
+  ]
+}
