@@ -30,59 +30,147 @@
     },
     {
       "id": 7,
-      "name": ""
+      "name": "Mashu"
     },
     {
       "id": 8,
-      "name": ""
+      "name": "Ishtar"
     },
     {
       "id": 9,
-      "name": ""
+      "name": "Rin"
     },
     {
       "id": 10,
-      "name": ""
+      "name": "Ishtar"
     },
     {
       "id": 11,
-      "name": ""
+      "name": "Saber Alter"
     },
     {
       "id": 12,
-      "name": ""
+      "name": "Saber Alter 2"
     },
     {
       "id": 13,
-      "name": ""
+      "name": "Illya"
     },
     {
       "id": 14,
-      "name": ""
+      "name": "Modred"
     },
     {
       "id": 15,
-      "name": ""
+      "name": "BB"
     },
     {
       "id": 16,
-      "name": ""
+      "name": "Shuten Douji"
     },
     {
       "id": 17,
-      "name": ""
+      "name": "No C"
     },
     {
       "id": 18,
-      "name": ""
+      "name": "Medusa"
     },
     {
       "id": 19,
-      "name": ""
+      "name": "No c"
     },
     {
       "id": 20,
-      "name": ""
+      "name": "Anastasia"
+    },
+    {
+      "id": 21,
+      "name": "Diana"
+    },
+    {
+      "id": 22,
+      "name": "Maika"
+    },
+    {
+      "id": 23,
+      "name": "Rin"
+    },
+    {
+      "id": 24,
+      "name": "Tomo"
+    },
+    {
+      "id": 25,
+      "name": "Rem"
+    },
+    {
+      "id": 26,
+      "name": "Aqua"
+    },
+    {
+      "id": 27,
+      "name": "Furry"
+    },
+    {
+      "id": 28,
+      "name": "Itachi"
+    },
+    {
+      "id": 29,
+      "name": "Deidara"
+    },
+    {
+      "id": 30,
+      "name": "Shoto Todoroki"
+    },
+    {
+      "id": 31,
+      "name": "Kaede Akamatsu"
+    },
+    {
+      "id": 32,
+      "name": "Ibuki Mioda"
+    },
+    {
+      "id": 33,
+      "name": "Abigail"
+    },
+    {
+      "id": 34,
+      "name": "Abigail 2"
+    },
+    {
+      "id": 35,
+      "name": "Tohru"
+    },
+    {
+      "id": 36,
+      "name": "Why"
+    },
+    {
+      "id": 37,
+      "name": "Airi Akizuki"
+    },
+    {
+      "id": 38,
+      "name": "Marina Akizuki"
+    },
+    {
+      "id": 39,
+      "name": "Rinne Byakuya"
+    },
+    {
+      "id": 40,
+      "name": "Nemu Manaka"
+    },
+    {
+      "id": 41,
+      "name": "Kanae Hokari"
+    },
+    {
+      "id": 42,
+      "name": "Rika Makiba"
     }
   ]
 }
